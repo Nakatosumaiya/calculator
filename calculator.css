@@ -1,0 +1,38 @@
+body{
+    background-color:blueviolet;
+    text-align: center;
+    
+}
+.table{
+
+    margin-left:45%;
+    margin-right: auto;
+}
+input[type=button].operator{
+
+    background-color: rgb(120, 192, 13);
+}
+input[type=button]#delete{
+    background-color: tomato
+
+}
+input[type=button]#equal{
+    background-color: yellow
+}
+input[type=button]{
+   box-sizing: border-box;
+
+   padding:15px;
+   border-radius: 10px;
+   
+}
+h1{
+    color: chocolate
+}
+.table{
+    
+    
+    border:2px solid black;
+    margin-right: 550px;
+    background-color: grey
+}
